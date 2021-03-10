@@ -1,0 +1,6 @@
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework 3 (задание 2)\bin\Debug\Homework 3 (задание 2).exe.config
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework 3 (задание 2)\bin\Debug\Homework 3 (задание 2).exe
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework 3 (задание 2)\bin\Debug\Homework 3 (задание 2).pdb
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework 3 (задание 2)\obj\Debug\Homework 3 (задание 2).csproj.CoreCompileInputs.cache
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework 3 (задание 2)\obj\Debug\Homework 3 (задание 2).exe
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework 3 (задание 2)\obj\Debug\Homework 3 (задание 2).pdb

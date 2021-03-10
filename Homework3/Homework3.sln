@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3 (1.а - структура комплексных чисел)", "Homework3\Homework3 (1.а - структура комплексных чисел).csproj", "{2C0E756F-7CB6-42F7-9ECC-8D6157771282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3 (1.б - класс комплексных чисел)", "Homework3 (класс комплексных чисел)\Homework3 (1.б - класс комплексных чисел).csproj", "{188F762E-8F70-428A-8218-066F8154A529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 3 (задание 2)", "Homework 3 (задание 2)\Homework 3 (задание 2).csproj", "{DD9EAC5A-58CA-4128-A3FA-8F88C86C0274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0E756F-7CB6-42F7-9ECC-8D6157771282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0E756F-7CB6-42F7-9ECC-8D6157771282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0E756F-7CB6-42F7-9ECC-8D6157771282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0E756F-7CB6-42F7-9ECC-8D6157771282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188F762E-8F70-428A-8218-066F8154A529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188F762E-8F70-428A-8218-066F8154A529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188F762E-8F70-428A-8218-066F8154A529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188F762E-8F70-428A-8218-066F8154A529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9EAC5A-58CA-4128-A3FA-8F88C86C0274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9EAC5A-58CA-4128-A3FA-8F88C86C0274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9EAC5A-58CA-4128-A3FA-8F88C86C0274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9EAC5A-58CA-4128-A3FA-8F88C86C0274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F897989-60EC-4965-B515-57817F4737B3}
+	EndGlobalSection
+EndGlobal

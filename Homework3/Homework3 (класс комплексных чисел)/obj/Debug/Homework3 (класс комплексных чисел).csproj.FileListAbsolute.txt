@@ -1,0 +1,7 @@
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\bin\Debug\Homework3 (класс комплексных чисел).exe.config
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\bin\Debug\Homework3 (класс комплексных чисел).exe
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\bin\Debug\Homework3 (класс комплексных чисел).pdb
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\obj\Debug\Homework3 (класс комплексных чисел).csproj.CoreCompileInputs.cache
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\obj\Debug\Homework3 (класс комплексных чисел).exe
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\obj\Debug\Homework3 (класс комплексных чисел).pdb
+C:\Users\kaled\Desktop\Обучение\Homework3\Homework3 (класс комплексных чисел)\obj\Debug\Homework3 (класс комплексных чисел).csprojAssemblyReference.cache
